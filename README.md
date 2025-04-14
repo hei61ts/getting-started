@@ -19,3 +19,4 @@ Important!! The .yml file utilizes your resource group name for the DNS. This MU
 
 Use the tutorial in Canvas to obtain your azure credentials and make sure the AZURE_CREDENTIALS secret exists. Good luck!
 si maatje
+si
